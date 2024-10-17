@@ -1,5 +1,4 @@
 // export const firebaseConfig = {
-//   apiKey: "AIzaSyCQlpvCxoCqo4GUlyZQVV64EQikpWZ3FH8",
 //   authDomain: "myfirstdatabase-1f4b6.firebaseapp.com",
 //   projectId: "myfirstdatabase-1f4b6",
 //   storageBucket: "myfirstdatabase-1f4b6.appspot.com",
@@ -8,7 +7,6 @@
 //   measurementId: "G-YMVKJVFSWV"
 // };
 export const firebaseConfig = {
-    apiKey: "AIzaSyC1AGYls4javPhk3qDc_5kGhwo8iFVI9-g",
     authDomain: "react-app-58a3f.firebaseapp.com",
     projectId: "react-app-58a3f",
     storageBucket: "react-app-58a3f.appspot.com",
